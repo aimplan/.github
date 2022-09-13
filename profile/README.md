@@ -2,8 +2,8 @@
 
 ### Our Visuals
 
-* [Planning Grid](https://github.com/aimplan/table-grid) - Aimplan Planning & Reporting Visual
-* [Table Grid](https://github.com/aimplan/planning-grid) - Aimplan Master Data Input Table
+* [Planning Grid](https://github.com/aimplan/planning-grid) - Aimplan Planning & Reporting Visual
+* [Table Grid](https://github.com/aimplan/table-grid) - Aimplan Master Data Input Table
 
 ### Our APIs
 | API                                               | Summary                                                           | Url                                               |
