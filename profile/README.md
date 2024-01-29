@@ -4,6 +4,7 @@
 
 * [Planning Grid](https://github.com/aimplan/planning-grid) - Aimplan Planning & Reporting Visual
 * [Table Grid](https://github.com/aimplan/table-grid) - Aimplan Master Data Input Table
+* [Status Visual](https://github.com/aimplan/status-visual) - Aimplan Status Visual
 
 ### Our APIs
 | API                                               | Summary                                                           |
