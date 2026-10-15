@@ -1,20 +1,5 @@
 ## Hi there 👋 Welcome to Aimplan! 🎯
 
-### Sites
+Aimplan adds planning to Power BI. Users enter numbers, comments and workflow statuses straight into their Power BI reports through Aimplan's custom visuals, and the input flows back into the same semantic model that powers their reporting.
 
-* [Portal](https://github.com/aimplan/portal)
-
-### Our Visuals
-
-* [Planning Grid](https://github.com/aimplan/planning-grid) - Aimplan Planning & Reporting Visual
-* [Table Grid](https://github.com/aimplan/table-grid) - Aimplan Master Data Input Table
-* [Status Visual](https://github.com/aimplan/status-visual) - Aimplan Status Visual
-* [Comment Visual](https://github.com/aimplan/comment-visual) - Aimplan Comment Visual
-* [Input Grid](https://github.com/aimplan/input-grid) - Aimplan Edit Table
-
-### Our APIs
-| API                                                 | Summary                                                           |
-|-----------------------------------------------------|-------------------------------------------------------------------|
-| [Hub API](https://github.com/aimplan/hub-api)       | Contains information about users & instances.                     |
-| [App API](https://github.com/aimplan/app-api)       | _Regional._ Contains customer system data.                        | 
-| [Visual API](https://github.com/aimplan/visual-api) |_Regional._ Exposes resources for read & write to storage tables. |
+Learn more at [aimplan.com](https://www.aimplan.com) and in the [help centre](https://feedback.aimplan.com).
